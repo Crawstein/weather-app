@@ -8,13 +8,13 @@
 
 body {
     margin: 0;
-    font-family: 'Montserrat', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
 
 p {
     font-size: 1.6rem;
+    font-weight: 300;
 }
 
 h1 {
